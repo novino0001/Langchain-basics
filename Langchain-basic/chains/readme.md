@@ -1,5 +1,5 @@
 ******************************chains in Langchain-******************************
-These are the outpus of every chain file 
+These are the outputs of console of  every chain file 
 
 
 simple chaining--------------
