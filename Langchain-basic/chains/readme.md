@@ -75,7 +75,6 @@ France is also known for its wine regions, fashion industry, and art scene. The 
                                                                         +-----------------------+
 
 
-*************************************parallel chaining*********************************************                                                                       
 Notes and Quiz
 
 - In June 1975, Prime Minister Indira Gandhi declared a state of emergency in India that lasted until 1977. This period was marked by the suspension of civil liberties and the suppression of political opposition.
@@ -92,6 +91,9 @@ Quiz:
 3. How did Modi avoid arrest during the emergency?
 4. What was Modi's role in coordinating opposition to the government?
 5. Who did Modi meet during his involvement in political activism during the emergency?
+ 
+ **************************************************************parallel chaining*********************************************     
+
                                                         +---------------------------+
                                                         | Parallel<notes,quiz>Input |
                                                         +---------------------------+
@@ -105,7 +107,7 @@ Quiz:
                                                     *                               *
                                                     *                               *
                                             +------------+                    +------------+
-                                            | ChatOpenAI |                    | ChatOpenAI |
+                                            | ChatOpenAI |                    | ChatAnthropic |
                                             +------------+                    +------------+
                                                     *                               *
                                                     *                               *
@@ -144,7 +146,7 @@ Quiz:
                                                         | StrOutputParserOutput |
                                                         +-----------------------+
 
-***************************conditional chaining**************************
+**************************************************conditional chaining**************************
 
 I am sorry to hear about your experience. We are constantly striving to improve and your feedback is valuable to us. Please let us know how we can make things right and ensure a better experience in the future. Thank you for bringing this to our attention.
                                                             +-------------+      
